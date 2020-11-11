@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="MeuPrimeiroProjetoApplicationTests" project="MeuPrimeiroProjeto" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.ekoda.api.MeuPrimeiroProjetoApplicationTests" time="0.315" displayname="MeuPrimeiroProjetoApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.ekoda.api.MeuPrimeiroProjetoApplicationTests]">
-    <testcase name="contextLoads" classname="com.ekoda.api.MeuPrimeiroProjetoApplicationTests" time="0.315" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:com.ekoda.api.MeuPrimeiroProjetoApplicationTests]/[method:contextLoads()]"/>
-  </testsuite>
-</testrun>

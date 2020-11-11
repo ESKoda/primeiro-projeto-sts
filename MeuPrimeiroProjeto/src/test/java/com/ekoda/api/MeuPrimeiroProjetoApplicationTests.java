@@ -18,8 +18,8 @@ class MeuPrimeiroProjetoApplicationTests {
 
 	//@ActiveProfiles('test')
 	
-	String senhaEncoded = SenhaUtils.gerarBCrypt("123456");
-	boolean senhaValida = SenhaUtils.senhaValida("123456",senhaEncoded);
+	//String senhaEncoded = SenhaUtils.gerarBCrypt("123456");
+	//boolean senhaValida = SenhaUtils.senhaValida("123456",senhaEncoded);
 	
 	
 }
